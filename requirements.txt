@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-pyrogram asyncio
+Pyrofork
 TgCrypto
 pyromod
 # --- For-Database ------------ #
